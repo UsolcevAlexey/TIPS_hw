@@ -1,4 +1,4 @@
-Установить Python > 3.8. Инструкция по установке
+Установить Python > 3.8.
 Установить библиотеку gymnasium
 pip install gymnasium
 Запустить и разобраться с кодом LunaLander_PD_controller.py
